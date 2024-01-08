@@ -1,3 +1,5 @@
+package com.vpereira;
+
 public class Main {
 
     private static final int MAX_ELEMENOS = 200;
